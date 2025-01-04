@@ -1,2 +1,6 @@
 # Airline-reservation-system-
-this is a cpp program that allows users to book, cancel and manage airline preservation. it's a straightforward project to demonstrate concepts like object oriented programming and file handling in an easy to understand way.
+Project Description:
+This Airline Seat Reservation System is a simple, console-based system developed using basic C++ programming concepts. It is designed to help customers reserve airline seats in an easy and efficient manner. The system focuses on providing a straightforward user experience, leveraging fundamental features such as arrays, loops, conditional statements, and basic file handling for data persistence.
+
+
+
