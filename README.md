@@ -10,7 +10,7 @@ This project is a **C++ program** designed to manage an **Airline Seat Reservati
 - **User Information Collection**:
   - Collects the passenger's full name, sex, age, and passport number.
 - **Class Selection**:
-  - Allows passengers to choose between **Business Class** (Seats 1–50) and **Economy Class** (Seats 51–200).
+  - Allows passengers to choose between **Business Class** (Seats 1–50) and **Economy Class** (Seats 51–100).
 - **Seat Availability Check**:
   - Displays available seats before selection.
   - Ensures the selected seat is not already reserved.
