@@ -8,7 +8,7 @@ This project is a **C++ program** designed to manage an **Airline Seat Reservati
 
 ## Features
 - **User Information Collection**:
-  - Collects the passenger's full name, sex, age, and passport number.
+  - Collects the passenger's full name( up to grand father), sex, age, and passport number.
 - **Class Selection**:
   - Allows passengers to choose between **Business Class** (Seats 1–50) and **Economy Class** (Seats 51–100).
 - **Seat Availability Check**:
