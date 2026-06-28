@@ -4,7 +4,7 @@
 ---
 
 ## Overview
-This project is a **C++ program** designed to manage an **Airline seat reservation System**. It allows passengers to reserve seats in **Business ** or **Economy Class** while ensuring proper input validation and adherence to seat allocation rules.
+This project is a **C++ program** designed to manage an **Airline seat reservation System**. It allows passengers to reserve seats in **Business ** or **Economy Class** while ensuring proper input validation.
 
 ## Features
 - **User Information Collection**:
